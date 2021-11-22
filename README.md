@@ -35,4 +35,7 @@ If everything works you should be able to activate the Python environment by ent
 - save current installed dependencies back to requirements.txt: `pip freeze > requirements.txt`
 
 
-##python wird noch einmal verändert
+##python wird schon wieder verändert, ständig wird verändert
+
+
+
